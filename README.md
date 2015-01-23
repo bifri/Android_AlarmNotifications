@@ -41,6 +41,7 @@ interface AlarmNotificatorConfig<T extends Enum<T>> {
   /**
    * @return false if notifications of this type are turned off 
    */
+
   boolean isEnabled(T notificationType);
   /**
    * @return array of notification show delays

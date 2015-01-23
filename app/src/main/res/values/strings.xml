@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlarmNotifications</string>
+    <string name="mainActivity_button_clear">clear()</string>
+    <string name="mainActivity_button_schedule">schedule()</string>
+    <string name="mainActivity_button_isEnabled">isEnabled()</string>
+    <string name="mainActivity_button_getDelays">getDelays()</string>
+    <string name="mainActivity_textView_spinner">Choose notification type:</string>
+    <string name="default_text">Press button</string>
+
+    <string name="activity1_name">Low importance activity</string>
+    <string name="title_activity_activity1">Activity1</string>
+    <string name="activity2_name">Normal importance activity</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="activity3_name">High importance activity</string>
+    <string name="title_activity_activity3">Activity3</string>
+
+</resources>
